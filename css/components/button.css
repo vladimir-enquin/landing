@@ -1,0 +1,32 @@
+.btn-blue {
+	background-color: rgb(150 73 73); 
+	color: white;
+	padding: 5px 10px;
+	border-radius: 4px;
+	font-weight: bold;
+	font-family: 'Roboto', sans-serif;
+}
+
+#btn-stark{
+	background-color: #D6CEB3;
+}
+
+#btn-lannister{
+	background-color: #87090A;
+}
+
+#btn-baratheon{
+	background-color: #FFC317;
+}
+
+#btn-targaryen{
+	background-color: black;
+}
+
+a:hover {
+	background-color: 201658;
+}
+
+
+
+
